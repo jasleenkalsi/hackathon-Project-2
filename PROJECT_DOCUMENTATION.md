@@ -2,24 +2,24 @@
 
 ## Project Overview
 
-[Provide a brief summary of the project, including the theme and objectives.]
+This project is a responsive webpage designed to showcase a personal portfolio. The objective is to present projects and skills in an engaging layout that is accessible on various devices.
 
 ## Team Members:
 
--   Name 1
--   Name 2
--   Name 3
+- Jasleen Kaur
+- Om Singh
+- Sehajpreet Kaur
 
 ## Member Contributions:
 
-### Name 1:
+### Jasleen Kaur:
 
--   Worked on [specific elements] of the webpage.
+- Worked on the overall layout and structure of the webpage, including the header and footer sections.
 
-### Name 2:
+### Om Singh:
 
--   Was responsible for [specific tasks], focusing on [specific HTML elements].
+- Was responsible for the CSS styling, focusing on implementing Flexbox and Grid for a responsive design.
 
-### Name 3:
+### Sehajpreet Kaur:
 
--   Handled [specific sections], covering [specific topics or features].
+- Handled the content creation, covering the "About Me" and "Projects" sections, ensuring all information is up-to-date and engaging.
