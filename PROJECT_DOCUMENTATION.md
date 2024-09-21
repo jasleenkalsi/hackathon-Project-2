@@ -7,7 +7,7 @@ This project is a responsive webpage designed to showcase a personal portfolio. 
 ## Team Members:
 
 - Jasleen Kaur
-- Om Singh
+- Om Patel
 - Sehajpreet Kaur
 
 ## Member Contributions:
@@ -16,7 +16,7 @@ This project is a responsive webpage designed to showcase a personal portfolio. 
 
 - Worked on the overall layout and structure of the webpage, including the header and footer sections.
 
-### Om Singh:
+### Om Patel:
 
 - Was responsible for the CSS styling, focusing on implementing Flexbox and Grid for a responsive design.
 
